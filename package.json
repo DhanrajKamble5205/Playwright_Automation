@@ -1,14 +1,22 @@
 {
-  "name": "playwrightautomation",
+  "name": "playwright_automation",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanrajKamble5205/Playwright_Automation.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/DhanrajKamble5205/Playwright_Automation/issues"
+  },
+  "homepage": "https://github.com/DhanrajKamble5205/Playwright_Automation#readme",
   "devDependencies": {
-    "@playwright/test": "^1.55.0",
-    "@types/node": "^24.3.0"
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
   }
 }
